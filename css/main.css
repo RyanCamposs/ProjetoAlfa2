@@ -1,0 +1,28 @@
+.head {
+    width: 100%;
+    height: 80px;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid: 40px;
+    
+}
+
+.head a {
+    padding: 29px;
+    text-decoration: none;
+    color: black;
+
+
+}
+
+.head a:hover {
+    color: red;
+}
+
+section {
+
+    height: 80vh;
+    border: 1px solid;
+}
